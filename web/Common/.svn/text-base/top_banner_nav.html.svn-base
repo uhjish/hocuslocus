@@ -1,0 +1,41 @@
+<table width="755" border="0" align="center" cellpadding="0" cellspacing="0">
+
+          <tr>
+            <td width="755">
+              <!-- Begin table for top banner and top navigation -->
+              <table width="755" height="5" border="0" cellpadding="0" cellspacing="0">
+              </table>
+
+              <table width="755" border="0" cellpadding="0" cellspacing="0">
+
+                <tr>
+                  <td height="5"></td>
+                </tr>
+              </table>
+
+              <table width="755" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="221" height="45" rowspan="2"><a href="http://www.albany.edu/"><img src="http://www.albany.edu/main/bannerlevel3/minerva_slice.gif" alt="Minerva" width="45" height="57" border="0"></a></td>
+                  <td height="20" colspan="4"><a href="http://www.albany.edu/cancergenomics/index.html"><img src="http://www.albany.edu/cancergenomics/images/genNYsis01.gif" alt="Gen*NY*Sis Center for Excellence in Cancer Genomics" width="710" height="38" border="0"></a></td>
+
+                </tr>
+
+                <tr>
+                  <td width="221"><a href="http://www.albany.edu/"><img src="http://www.albany.edu/main/bannerlevel3/ua_suny_slice.gif" alt="University at Albany, State University of New York" width="397" height="19" border="0"></a></td>
+                  <td width="89"><a href="http://www.albany.edu/" onMouseOver="MM_swapImage('Image61','','http://www.albany.edu/main/bannerlevel3/ua_home_litea.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.albany.edu/main/bannerlevel3/ua_home_lite.gif" alt="UAlbany Home" name="Image61" width="89" height="19" border="0" id="Image6"></a></td>
+                  <td width="119"><a href="http://www.albany.edu/main/index_site_index.html" onMouseOver="MM_swapImage('Image71','','http://www.albany.edu/main/bannerlevel3/ua_siteindex_litea.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.albany.edu/main/bannerlevel3/ua_siteindex_lite.gif" alt="UAlbany Site Index" name="Image71" width="119" height="19" border="0" id="Image7"></a></td>
+
+                  <td width="105"><a href="http://www.albany.edu/searches/index.html" onMouseOver="MM_swapImage('Image81','','http://www.albany.edu/main/bannerlevel3/ua_search_litea.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.albany.edu/main/bannerlevel3/ua_search_lite.gif" alt="UAlbany Search" name="Image81" width="105" height="19" border="0" id="Image8"></a></td>
+                </tr>
+              </table>
+
+              <!-- End of table for top banner and top navigation -->
+              <table width="755" border="0" cellspacing="0" cellpadding="0">
+
+                <tr>
+                  <td><img src="http://www.albany.edu/main/bannerlevel3/bottom_bar.gif" width="755" height="11"></td>
+                </tr>
+              </table></td>
+
+          </tr>
+        </table>
